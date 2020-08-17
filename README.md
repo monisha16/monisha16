@@ -1,5 +1,11 @@
-### Kon'nichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">😊<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, 
-<br/>I'm **Monisha Tarkar**, a ComputerScience Graduate 💻 from Sahyadri, Mangalore. Iam an active community member of [SOSC](https://sosc.org.in/)💚. I'm obsessed with the idea of improving myself and want a platform to grow and excel:star:. Beside's programming, I enjoy drawing illustrations on Autodesk Sketchbook 💓 and watching Anime <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">.
+### Kon'nichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">💓<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, 
+<br/>
+<p>
+  <em>
+I'm **Monisha Tarkar**, a ComputerScience Graduate 💻 from Sahyadri, Mangalore. Iam an active community member of [SOSC](https://sosc.org.in/)💚. I'm obsessed with the idea of improving myself and want a platform to grow and excel:star:. Beside's programming, I enjoy drawing illustrations on Autodesk Sketchbook 💓 and watching Anime <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">.
+    </em>
+    <p>
+        
 <!--
 **monisha16/monisha16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
