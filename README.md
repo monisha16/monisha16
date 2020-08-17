@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/monisha-tarkar/) [<img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />](monishatarkar16@gmail.com)
 
 ----
-<br/>
+
 ⭐️ From [Monisha](https://github.com/monisha16)
