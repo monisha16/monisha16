@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
     
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)   
+![Monisha's github stats](https://github-readme-stats.vercel.app/api?username=monisha16&show_icons=true&theme=dark)   
 
 -------
 📫 You can contact me through :
@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/monisha-tarkar/) [<img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />](monishatarkar16@gmail.com)
 
 ----
-
+<br/>
 ⭐️ From [Monisha](https://github.com/monisha16)
