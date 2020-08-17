@@ -2,7 +2,7 @@
 <br/>
 <p>
   <em>
-I'm **Monisha Tarkar**, a ComputerScience Graduate 💻 from Sahyadri, Mangalore. Iam an active community member of [SOSC](https://sosc.org.in/)💚. I'm obsessed with the idea of improving myself and want a platform to grow and excel:star:. Beside's programming, I enjoy drawing illustrations on Autodesk Sketchbook 💓 and watching Anime <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">.
+I'm <b>Monisha Tarkar</b>, a ComputerScience Graduate 💻 from Sahyadri, Mangalore. Iam an active community member of <b>SOSC</b>(https://sosc.org.in/)💚. I'm obsessed with the idea of improving myself and want a platform to grow and excel:star:. Beside's programming, I enjoy drawing illustrations on Autodesk Sketchbook 💓 and watching Anime <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">.
     </em>
     <p>
         
