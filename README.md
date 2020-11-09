@@ -2,7 +2,7 @@
 <br/>
 <p>
   <samp>
-I'm <b>Monisha Tarkar</b> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">, a ComputerScience Graduate 💻 from Sahyadri, Mangalore. Iam an active community member of <b>Sahyadri Open Source Community </b>(https://sosc.org.in/)💚. I'm obsessed with the idea of improving myself and want a platform to grow and excel:star:. <br>Beside's programming, I enjoy painting 🎨, drawing illustrations on Autodesk Sketchbook 💓 and watching Anime💖.
+I'm <b>Monisha Tarkar</b> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">, a ComputerScience Graduate 💻 from Sahyadri, Mangalore. Iam an active community member of <b>Sahyadri Open Source Community </b>(https://sosc.org.in/) 💚. I'm obsessed with the idea of improving myself and want a platform to grow and excel:star:. <br>Beside's programming, I enjoy painting 🎨, drawing illustrations on Autodesk Sketchbook 💓 and watching Anime💖.
 🌱 I’m currently learning and enhancing my skills in Front Development.
     </samp>
     <p>
