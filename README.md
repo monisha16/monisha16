@@ -1,11 +1,14 @@
-### Kon'nichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">💓<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, 
+### Kon'nichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
 <br/>
 <p>
   <samp>
-I'm <b>Monisha Tarkar</b> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">, a ComputerScience Graduate 💻 from Sahyadri, Mangalore. Iam an active community member of <b>Sahyadri Open Source Community </b>(https://sosc.org.in/)💚. I'm obsessed with the idea of improving myself and want a platform to grow and excel:star:. <br>Beside's programming, I enjoy painting 🎨, drawing illustrations on Autodesk Sketchbook 💓 and watching Anime💖.
-🌱 I’m currently learning and enhancing my skills in Front Development.
+I'm <b>Monisha Tarkar</b> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">, a ComputerScience Graduate 💻 from Sahyadri, Mangalore. <br/>
+Iam an active community member of <b>Sahyadri Open Source Community </b>(https://sosc.org.in/)💚. <br/>
+I'm obsessed with the idea of improving my knowledge in my field of work and challenging myslef with projects to grow and excel:star:. <br/>Besides programming, I'm a wine enthusiast who enjoys baking and watching Anime💖. <br/>
+🌱 I’m currently focusing on learning and enhancing my skills as a Frontend Developer. <br/>
+👯 I’m looking to collaborate on anything fun and creative. 
     </samp>
-    <p>
+ <p>
         
 <!--
 **monisha16/monisha16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
