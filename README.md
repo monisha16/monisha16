@@ -2,8 +2,7 @@
 <br/>
 <p>
   <samp>
-I'm <b>Monisha Tarkar</b> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">, a ComputerScience Graduate 💻 from Sahyadri, Mangalore. <br/>
-Iam an active community member of <b>Sahyadri Open Source Community </b>(https://sosc.org.in/)💚. <br/>
+Iam an active community member of <b>Sahyadri Open Source Community </b>(https://sosc.org.in/)💚. <br/> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 I'm obsessed with the idea of improving my knowledge in my field of work and challenging myslef with projects to grow and excel:star:. <br/>Besides programming, I'm a wine enthusiast who enjoys baking and watching Anime💖. <br/>
 🌱 I’m currently focusing on learning and enhancing my skills as a Frontend Developer. <br/>
 👯 I’m looking to collaborate on anything fun and creative. 
