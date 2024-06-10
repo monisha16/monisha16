@@ -3,7 +3,7 @@
 <p>
   <samp>
 
-I'm obsessed with the idea of improving my knowledge in my field of work and challenging myslef with projects to grow and excel:star:. <br/>Besides programming, I'm a wine enthusiast who enjoys baking and watching Anime💖. <br/>
+I'm obsessed with the idea of improving my knowledge in my field of work and challenging myslef with projects to grow and excel :star:. <br/>Besides programming, I'm a wine enthusiast who enjoys baking and watching Anime 💖. <br/>
 🌱 I’m currently focusing on learning and enhancing my skills as a Frontend Developer. <br/>
 👯 I’m looking to collaborate on anything fun and creative. 
     </samp>
