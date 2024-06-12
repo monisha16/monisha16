@@ -1,11 +1,13 @@
-### Kon'nichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, 
-<br/>
+### Kon'nichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 <p>
   <samp>
+I'm obsessed with constantly improving my skills and taking on projects that push my limits. Besides programming, I'm a wine enthusiast who loves baking and watching Anime.
 
-I'm obsessed with the idea of improving my knowledge in my field of work and challenging myslef with projects to grow and excel :star:. <br/>Besides programming, I'm a wine enthusiast who enjoys baking and watching Anime 💖. <br/>
-🌱 I’m currently focusing on learning and enhancing my skills as a Frontend Developer. <br/>
-👯 I’m looking to collaborate on anything fun and creative. 
+🌱 Currently honing my skills as a Frontend Developer. <br />
+👯 Open to fun and creative collaborations. 
+
+Checkout my **portfolio** : [https://monisha-tarkar.netlify.app/](https://monisha-tarkar.netlify.app/)
     </samp>
  <p>
         
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 -------
 📫 You can contact me through :
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/monisha-tarkar/) [<img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />](monishatarkar16@gmail.com)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />](https://www.linkedin.com/in/monisha-tarkar/) [<img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />](monishatarkar1625@gmail.com)
 
 ----
 
